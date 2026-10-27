@@ -1,0 +1,5 @@
+name: 'ft_dbt_core_audit'
+version: '1.0.0'
+config-version: 2
+profile: 'ft_dbt_core_audit'
+model-paths: ['models']
